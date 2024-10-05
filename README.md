@@ -23,14 +23,14 @@ Another significant challenge was seamlessly integrating QuickBooks with Salesfo
 
 Maintaining a reliable and secure network is foundational for any business, and this was no different at EcoPro. I took ownership of setting up and managing the office's WiFi network and other IT infrastructure, with a strong emphasis on security and performance.
 
-  **WiFi Network Design & Deployment: **I designed and implemented a robust WiFi network that prioritized both speed and security, ensuring optimal coverage and minimal downtime across the office. I also implemented Quality of Service (QoS) settings to prioritize critical business applications, providing a smooth and uninterrupted workflow for key operations.
+  **WiFi Network Design & Deployment:** I designed and implemented a robust WiFi network that prioritized both speed and security, ensuring optimal coverage and minimal downtime across the office. I also implemented Quality of Service (QoS) settings to prioritize critical business applications, providing a smooth and uninterrupted workflow for key operations.
  
-  **Password & Security Protocols: **Understanding the importance of protecting company data, I established strict password policies and multi-factor authentication (MFA) protocols. I enforced secure password management practices, routine password changes, and educated staff on cybersecurity best practices to mitigate the risk of breaches.
+  **Password & Security Protocols:** Understanding the importance of protecting company data, I established strict password policies and multi-factor authentication (MFA) protocols. I enforced secure password management practices, routine password changes, and educated staff on cybersecurity best practices to mitigate the risk of breaches.
   
 **Remote Access and Port Forwarding via RustDesk**
 
   In an increasingly remote and distributed work environment, providing employees with secure access to company resources from anywhere was crucial. To address this need, I utilized RustDesk—an open-source remote access tool.
-**RustDesk Configuration:**I set up RustDesk to enable secure remote access to workstations, allowing employees and support personnel to connect to the office network securely. This involved setting up user accounts, defining access permissions, and providing technical support to ensure a smooth user experience.
+**RustDesk Configuration:** I set up RustDesk to enable secure remote access to workstations, allowing employees and support personnel to connect to the office network securely. This involved setting up user accounts, defining access permissions, and providing technical support to ensure a smooth user experience.
 
 **Port Forwarding & Network Access:** As part of setting up RustDesk, I configured port forwarding on our network to facilitate secure and seamless external access. This allowed me to create entry points for remote connections without compromising the internal security of our network, and I maintained vigilant monitoring to prevent unauthorized access.
 
