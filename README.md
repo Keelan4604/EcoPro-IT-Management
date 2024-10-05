@@ -15,6 +15,7 @@ One of my core responsibilities was managing EcoPro’s Windows-based server, wh
 Another significant challenge was seamlessly integrating QuickBooks with Salesforce to streamline our accounting and customer relationship management processes. This integration required an in-depth understanding of both platforms and their respective APIs. My key contributions included:
 
   **QuickBooks Management:** I handled the setup and maintenance of our QuickBooks environment, including overseeing financial transactions, account setups, and report generation. I gained hands-on experience managing various facets of company finances, such as payroll processing, expense tracking, and invoice management, all while ensuring data consistency and security.
+ 
   **Salesforce Customization & Integration:** On the Salesforce side, I customized our CRM to better fit EcoPro's specific sales and customer service processes. My goal was to connect Salesforce seamlessly with QuickBooks, allowing real-time data synchronization between accounting and CRM operations. I utilized third-party middleware to bridge the two systems, ensuring efficient data transfer and reducing manual entry.
   By integrating QuickBooks and Salesforce, I was able to cut down the time our accounting department spent on data entry by approximately 50%. This not only improved efficiency but also reduced the potential for human error, making our data workflows much more reliable.
 
@@ -23,12 +24,14 @@ Another significant challenge was seamlessly integrating QuickBooks with Salesfo
 Maintaining a reliable and secure network is foundational for any business, and this was no different at EcoPro. I took ownership of setting up and managing the office's WiFi network and other IT infrastructure, with a strong emphasis on security and performance.
 
   **WiFi Network Design & Deployment: **I designed and implemented a robust WiFi network that prioritized both speed and security, ensuring optimal coverage and minimal downtime across the office. I also implemented Quality of Service (QoS) settings to prioritize critical business applications, providing a smooth and uninterrupted workflow for key operations.
+ 
   **Password & Security Protocols: **Understanding the importance of protecting company data, I established strict password policies and multi-factor authentication (MFA) protocols. I enforced secure password management practices, routine password changes, and educated staff on cybersecurity best practices to mitigate the risk of breaches.
   
-**  Remote Access and Port Forwarding via RustDesk**
+**Remote Access and Port Forwarding via RustDesk**
 
   In an increasingly remote and distributed work environment, providing employees with secure access to company resources from anywhere was crucial. To address this need, I utilized RustDesk—an open-source remote access tool.
-**RustDesk Configuration: **I set up RustDesk to enable secure remote access to workstations, allowing employees and support personnel to connect to the office network securely. This involved setting up user accounts, defining access permissions, and providing technical support to ensure a smooth user experience.
+**RustDesk Configuration:**I set up RustDesk to enable secure remote access to workstations, allowing employees and support personnel to connect to the office network securely. This involved setting up user accounts, defining access permissions, and providing technical support to ensure a smooth user experience.
+
 **Port Forwarding & Network Access:** As part of setting up RustDesk, I configured port forwarding on our network to facilitate secure and seamless external access. This allowed me to create entry points for remote connections without compromising the internal security of our network, and I maintained vigilant monitoring to prevent unauthorized access.
 
 **IT Management & Problem Solving in Practice**
